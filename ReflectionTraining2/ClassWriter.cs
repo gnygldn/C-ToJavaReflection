@@ -13,7 +13,7 @@ namespace ReflectionTraining2
         public void WriteClasses(string location,Type type)
         {
             var newPage = new NewPageCreator(location + type.Name + ".java");
-            newPage.StreamWriter.WriteLine("public" + " " + type.FullName + " \n{");
+            newPage.StreamWriter.WriteLine("public" + " " + type.Name + " \n{");
 
 
             FieldWriter field = new FieldWriter();

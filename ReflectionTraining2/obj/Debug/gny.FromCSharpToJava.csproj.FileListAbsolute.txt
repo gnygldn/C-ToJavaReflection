@@ -4,3 +4,9 @@ C:\Users\gnygl\Desktop\projects\c#toJava\ReflectionTraining2\bin\Debug\Reflectio
 C:\Users\gnygl\Desktop\projects\c#toJava\ReflectionTraining2\obj\Debug\ReflectionTraining2.exe
 C:\Users\gnygl\Desktop\projects\c#toJava\ReflectionTraining2\obj\Debug\ReflectionTraining2.pdb
 C:\Users\gnygl\Desktop\projects\c#toJava\ReflectionTraining2\obj\Debug\gny.FromCSharpToJava.csprojResolveAssemblyReference.cache
+C:\Users\gnygl\Desktop\projects\C-ToJavaReflection\ReflectionTraining2\bin\Debug\ReflectionTraining2.exe.config
+C:\Users\gnygl\Desktop\projects\C-ToJavaReflection\ReflectionTraining2\obj\Debug\ReflectionTraining2.exe
+C:\Users\gnygl\Desktop\projects\C-ToJavaReflection\ReflectionTraining2\obj\Debug\ReflectionTraining2.pdb
+C:\Users\gnygl\Desktop\projects\C-ToJavaReflection\ReflectionTraining2\bin\Debug\ReflectionTraining2.exe
+C:\Users\gnygl\Desktop\projects\C-ToJavaReflection\ReflectionTraining2\bin\Debug\ReflectionTraining2.pdb
+C:\Users\gnygl\Desktop\projects\C-ToJavaReflection\ReflectionTraining2\obj\Debug\gny.FromCSharpToJava.csprojResolveAssemblyReference.cache
