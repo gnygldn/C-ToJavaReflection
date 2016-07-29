@@ -1,0 +1,15 @@
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\obj\Debug\gny.FromCSharpToJavaFixer.csprojResolveAssemblyReference.cache
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\FluentAssertions.Core.dll
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\FluentAssertions.dll
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\ReflectionTraining2.exe
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\ReflectionTraining2.pdb
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\FluentAssertions.pdb
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\FluentAssertions.xml
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\FluentAssertions.Core.xml
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\gnygl\Desktop\projects\c#toJava\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
